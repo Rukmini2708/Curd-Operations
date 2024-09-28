@@ -1,1 +1,2 @@
 # Curd-Operations
+This project is a basic implementation of CRUD (Create, Read, Update, Delete) operations using HTML, CSS, and JavaScript. CRUD operations are fundamental in managing data, and this project demonstrates how to build a user interface that interacts with data entries. HTML provides the structure of the application, CSS enhances the visual styling, and JavaScript handles the dynamic functionality, such as creating new entries, displaying them, updating existing data, and deleting records.
